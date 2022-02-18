@@ -1,4 +1,6 @@
 # Course materials
+Before starting mac sure that you have git installed on your computer. <br>
+If you dont have git go to https://git-scm.com/book/en/v2/Getting-Started-Installing-Git <br>
 
  1 - Clone this repository in your current working directory <br>
  ``` git clone https://github.com/yellowsimulator/usn-ds-course ```
@@ -10,6 +12,6 @@
  ``` python -m venv venv ``` for window users <br>
 ```python3 -m venv venv ```for mac and linux users <br>
 
-4 - activate your virtual environment <br>
+4 - Activate your virtual environment <br>
 ```source source venv/bin/activate ``` for mac/linux users <br>
 ```Scripts\activate ```for window users 
