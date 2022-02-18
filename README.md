@@ -1,6 +1,7 @@
 # Course materials
-Before starting mac sure that you have git installed on your computer. <br>
-If you dont have git go to https://git-scm.com/book/en/v2/Getting-Started-Installing-Git <br>
+Before starting make sure that you have git installed on your computer. <br>
+If you dont have git, go to https://git-scm.com/book/en/v2/Getting-Started-Installing-Git <br>
+To continue, follow these instructions:
 
  1 - Clone this repository in your current working directory <br>
  ``` git clone https://github.com/yellowsimulator/usn-ds-course ```
