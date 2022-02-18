@@ -14,5 +14,5 @@ To continue, follow these instructions:
 ```python3 -m venv venv ```for mac and linux users <br>
 
 4 - Activate your virtual environment <br>
-```source source venv/bin/activate ``` for mac/linux users <br>
+```source venv/bin/activate ``` for mac/linux users <br>
 ```Scripts\activate ```for window users 
