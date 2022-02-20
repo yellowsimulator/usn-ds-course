@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# latex files
+presentation/*.aux
+presentation/*.log
+presentation/*.snm
+presentation/*.gz
+presentation/*.toc
+presentation/*.nav
+presentation/*.out
+
+# other
+.DS_Store

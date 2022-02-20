@@ -5,3 +5,7 @@ matplotlib==3.5.1
 tensorboard==2.8.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
+tensorflow-datasets==4.5.2
+keras==2.8.0
+pydot==1.4.2
+graphviz==0.19.1
