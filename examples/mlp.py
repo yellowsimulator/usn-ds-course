@@ -18,6 +18,7 @@ def mlp_functional_api(input_shape: tuple) -> Model:
     input_image = Input(shape=input_shape)
 
 
+
 if __name__ == '__main__':
     
     model = mlp_functional_api()
