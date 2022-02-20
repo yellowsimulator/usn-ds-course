@@ -8,6 +8,7 @@ def mpl_sequential_api_v1() -> Sequential:
     """Implements a sequential api.
     """
     model = Sequential([
+        Dense(units=64, activation='relu', input_shape=(784,)),
         ])
     return model
 
