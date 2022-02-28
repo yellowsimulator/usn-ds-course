@@ -139,3 +139,4 @@ presentation/*.out
 
 # other
 .DS_Store
+__pycache__/

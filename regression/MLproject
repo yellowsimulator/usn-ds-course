@@ -1,0 +1,6 @@
+name: Energy prediction
+
+entry_points:
+  main:
+    command: "python3 modeling.py"
+

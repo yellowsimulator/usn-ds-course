@@ -1,0 +1,21 @@
+name: Energy prediction
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8.4
+
+  - pip:
+    - tensorflow==2.8.0
+    - tensorflow-io-gcs-filesystem==0.24.0
+    - mlflow==1.23.1
+    - matplotlib==3.5.1
+    - tensorboard==2.8.0
+    - tensorboard-data-server==0.6.1
+    - tensorboard-plugin-wit==1.8.1
+    - tensorflow-datasets==4.5.2
+    - keras==2.8.0
+    - pydot==1.4.2
+    - graphviz==0.19.1
+    - pandas==1.4.1
+    - openpyxl==3.0.9
+    - scikit-learn==1.0.2

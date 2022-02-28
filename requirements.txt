@@ -9,3 +9,6 @@ tensorflow-datasets==4.5.2
 keras==2.8.0
 pydot==1.4.2
 graphviz==0.19.1
+pandas==1.4.1
+openpyxl==3.0.9
+scikit-learn==1.0.2

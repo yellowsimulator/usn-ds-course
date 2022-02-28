@@ -1,0 +1,12 @@
+{
+    "X1": "relative_compactness",
+    "X2": "surface_area",
+    "X3": "wall_area",
+    "X4": "roof_area",
+    "X5": "overall_height",
+    "X6": "orientation",
+    "X7": "glazing_area",
+    "X8": "glazing_area_distribution",
+    "y1": "heating_load",
+    "y2": "cooling_load"
+}
