@@ -61,5 +61,3 @@ def preprocess_data(X_train: np.ndarray, \
 
 if __name__ == '__main__':
     ...
-   #X_train, X_test, y_train, y_test = get_train_test()
-   #print(X_train.shape)

@@ -37,8 +37,8 @@ def plot_input_vs_target(X: str, Y: str):
 
 
 if __name__ == '__main__':
-    #plot_input_vs_target('X4', 'Y1')
-    #plot_correlation_matrix()
+    # plot_input_vs_target('X4', 'Y1')
+    # plot_correlation_matrix()
     ...
 
 
