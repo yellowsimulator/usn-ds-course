@@ -13,10 +13,21 @@ def mpl_sequential_api_v1() -> Sequential:
     return model
 
 
+def mpl_sequential_api_v2() -> Sequential:
+    """Implements a sequential api.
+    """
+    model = Sequential()
+    model.add(Dense(units=64, activation='relu', input_shape=(784,)))
+    return model
+
+
 def mlp_functional_api(input_shape: tuple) -> Model:
     """Implements a functional api.
     """
     input_image = Input(shape=input_shape)
+
+
+
 
 
 
