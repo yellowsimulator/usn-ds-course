@@ -30,8 +30,8 @@ def train_model(model: tf.keras.models,
         hyperparams: dictionary of hyperparameters
         data_name: dataset name. Defaults to 'mnist'.
     """
-    mlflow.set_experiment(f"{task_name}")
-    mlflow.start_run(run_name=f"run_{task_name}")
+    #mlflow.set_experiment(f"{task_name}")
+    #mlflow.start_run(run_name=f"run_{task_name}")
     MODEL_DIR = 'models_repo'
     version = 1
     export_path = os.path.join(MODEL_DIR, str(version))
@@ -68,7 +68,7 @@ def train_model(model: tf.keras.models,
                          early_stop_callback])
     # save model
     model.save(model_path)
-    mlflow.end_run
+    #mlflow.end_run
 
     
     
